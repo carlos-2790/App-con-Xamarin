@@ -1,0 +1,15 @@
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\AppXamarin.deps.json
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\AppXamarin.dll
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\ref\AppXamarin.dll
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\AppXamarin.pdb
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.csproj.AssemblyReference.cache
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.AssemblyInfoInputs.cache
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.AssemblyInfo.cs
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.dll
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\ref\AppXamarin.dll
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.pdb
+C:\Users\Liam\Desktop\Proyecto C#\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\Bienvenidos.xaml.g.cs
