@@ -2188,11 +2188,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin.Android\\AppXamarin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin.Android\\AppXamarin.Android.csproj",
       "projectName": "AppXamarin.Android",
-      "projectPath": "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin.Android\\AppXamarin.Android.csproj",
+      "projectPath": "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin.Android\\AppXamarin.Android.csproj",
       "packagesPath": "C:\\Users\\Liam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin.Android\\obj\\",
+      "outputPath": "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2215,8 +2215,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin\\AppXamarin.csproj": {
-              "projectPath": "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin\\AppXamarin.csproj"
+            "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin\\AppXamarin.csproj": {
+              "projectPath": "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin\\AppXamarin.csproj"
             }
           }
         }

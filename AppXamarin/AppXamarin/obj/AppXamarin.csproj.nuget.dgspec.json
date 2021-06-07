@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin\\AppXamarin.csproj": {}
+    "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin\\AppXamarin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin\\AppXamarin.csproj": {
+    "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin\\AppXamarin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin\\AppXamarin.csproj",
+        "projectUniqueName": "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin\\AppXamarin.csproj",
         "projectName": "AppXamarin",
-        "projectPath": "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin\\AppXamarin.csproj",
+        "projectPath": "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin\\AppXamarin.csproj",
         "packagesPath": "C:\\Users\\Liam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin\\obj\\",
+        "outputPath": "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

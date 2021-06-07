@@ -1118,11 +1118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin.iOS\\AppXamarin.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin.iOS\\AppXamarin.iOS.csproj",
       "projectName": "AppXamarin.iOS",
-      "projectPath": "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin.iOS\\AppXamarin.iOS.csproj",
+      "projectPath": "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin.iOS\\AppXamarin.iOS.csproj",
       "packagesPath": "C:\\Users\\Liam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1145,8 +1145,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin\\AppXamarin.csproj": {
-              "projectPath": "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin\\AppXamarin.csproj"
+            "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin\\AppXamarin.csproj": {
+              "projectPath": "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin\\AppXamarin.csproj"
             }
           }
         }

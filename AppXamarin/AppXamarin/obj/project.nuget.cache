@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5U1+bPdMjvTkBIgaDnlB1Hh+ZIzp6njyDmJv28Mt1ydwPsZ/dEAdUXlv/6aM/3mR+O4KWgpmYDRB79fjnDbHMg==",
+  "dgSpecHash": "arAMRTwYiIVHV8utX8ThfZ16R+tLFHQ36+s+APG/aIeMoBx4vuxrYXTM2jj3sq98pflPUtweJ44ZG1N+H7TH3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Liam\\Desktop\\Proyecto C#\\AppXamarin\\AppXamarin\\AppXamarin.csproj",
+  "projectFilePath": "C:\\Users\\Liam\\Desktop\\App-con-Xamarin\\AppXamarin\\AppXamarin\\AppXamarin.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
